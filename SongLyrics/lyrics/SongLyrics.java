@@ -12,7 +12,8 @@ package lyrics;
 public class SongLyrics {
 // Establish method with a method header
 	public static void main(String[] args) {
-//Write out the body of the method using System.out.println(""); to display the four lines of lyrics from the song I'll Follow You by Imagine Dragons
+		//Write out the body of the method using System.out.println(""); statements
+		//to display the four lines of lyrics from the song I'll Follow You by Imagine Dragons
 		System.out.println("I will follow you way down wherever you may go");
 		System.out.println("I'll follow you way down to your deepest low");
 		System.out.println("I'll always be around wherever life takes you");
